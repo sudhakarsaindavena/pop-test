@@ -8,5 +8,8 @@ public class POPDriverClaz {
 		POPProjectClaz pop = new POPProjectClaz();
 		
 		System.out.println(pop.getProjectInfo());
+		
+		UPSTClass upst = new UPSTClass();
+		System.out.println(upst.getProjectName());
 	}
 }
