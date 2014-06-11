@@ -6,6 +6,8 @@ public class POPDriverClaz {
 		
 		System.out.println("*******************************");
 		
+		System.out.println("this is nice format");
+		
 		POPProjectClaz pop = new POPProjectClaz();
 		
 		System.out.println(pop.getProjectInfo());
