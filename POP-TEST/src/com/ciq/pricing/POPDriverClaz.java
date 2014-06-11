@@ -4,6 +4,7 @@ public class POPDriverClaz {
 
 	public static void main(String[] args) {
 		
+		System.out.println("*******************************");
 		
 		POPProjectClaz pop = new POPProjectClaz();
 		
@@ -11,5 +12,7 @@ public class POPDriverClaz {
 		
 		UPSTClass upst = new UPSTClass();
 		System.out.println(upst.getProjectName());
+		
+		System.out.println("*******************************");
 	}
 }
