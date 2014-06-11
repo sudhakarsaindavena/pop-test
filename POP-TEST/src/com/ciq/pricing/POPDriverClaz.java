@@ -4,10 +4,11 @@ public class POPDriverClaz {
 
 	public static void main(String[] args) {
 		
-		System.out.println("*******************************");
+		
 		
 		System.out.println("this is nice format " +
 				"added one more line");
+		System.out.println("THIS IS NICE FORMAT");
 		
 		POPProjectClaz pop = new POPProjectClaz();
 		
