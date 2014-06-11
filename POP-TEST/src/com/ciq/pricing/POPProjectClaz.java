@@ -13,8 +13,8 @@ public class POPProjectClaz {
 	private String getPcdbInfo() {
 		
 		
-		return "this is pcdb project" +
-				"plus one more line is added";
+		return "THIS IS PCDB PROJECT" +
+				"PLUS ONE MORE LINE IS ADDED";
 	}
 
 }
